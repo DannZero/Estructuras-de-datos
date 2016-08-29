@@ -17,14 +17,14 @@ Lista::Lista(int Dato)
 	std::cout<<T->getSig()<<std::endl;*/
 }
 
-bool Lista::ListaVacia()
+bool Lista::isEmpty()
 {
 	if (this->H == NULL && this->T == NULL)
 		return true;
 	return false;
 }
 
-void Lista::AddInicio(int Dato)
+void Lista::addInicio(int Dato)
 {
 	Nodo* aux = new Nodo(Dato,this->H);
 	if (ListaVacia())
@@ -38,7 +38,7 @@ void Lista::AddInicio(int Dato)
 	std::cout<<T->getSig()<<std::endl;*/
 }
 
-void Lista::Show()
+void Lista::show()
 {
 	Nodo* aux = this->H;
 	while(aux!=NULL)

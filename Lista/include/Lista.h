@@ -7,8 +7,8 @@ public:
 	Nodo* T;	
 	Lista();
 	Lista(int Dato);
-	bool ListaVacia();
-	void AddInicio(int Dato);
+	bool isEmpty();
+	void addInicio(int Dato);
 	//void AddFinal(int Dato);
 	//void AddRef(int Dato, int Ref);
 	//int RemoveInicio();
@@ -16,5 +16,5 @@ public:
 	//RemoveRef();
 	//int VaciarLista();
 	//Nodo* BuscarElemento();
-	void Show();
+	void show();
 };

@@ -1,13 +1,14 @@
 #include "Lista.h"
+using namespace std;
 
 int main()
 {
 	Lista l = Lista();
-	l.AddInicio(4);
-	l.AddInicio(5);
-	l.AddInicio(6);
-	l.AddInicio(7);
-	l.Show();
-	std::cout<<"Hello World"<<std::endl;
+	l.addInicio(4);
+	l.addInicio(5);
+	l.addInicio(6);
+	l.sddInicio(7);
+	l.show();
+	cout<<"Hello World"<<endl;
 	return 0;
 }

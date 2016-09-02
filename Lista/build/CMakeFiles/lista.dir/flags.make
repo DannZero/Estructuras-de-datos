@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/daniel/Documentos/Lista/include 
+CXX_INCLUDES = -I/home/daniel/Estructuras-de-datos/Lista/include 
 

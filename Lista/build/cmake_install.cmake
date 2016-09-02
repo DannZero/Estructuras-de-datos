@@ -1,4 +1,4 @@
-# Install script for directory: /home/daniel/Documentos/Lista
+# Install script for directory: /home/daniel/Estructuras-de-datos/Lista
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/daniel/Documentos/Lista/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/daniel/Estructuras-de-datos/Lista/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

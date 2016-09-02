@@ -3,7 +3,8 @@
         Descripción: La clase nodo es donde se encuentran todos los métodos utilizados para 
         la creación y manipulación de los nodos que conforman la lista. En la sección 'private' se encuentran la variable
         dato y el apuntador que recorrerá la lista. Mientras que en la sección 'public' esta el metodo constructor de los nodos
-        y los metodos para pasar de un nodo a otro, y para obtener el dato contenido en estos.
+        y los metodos para pasar de un nodo a otro, y para obtener el dato contenido en estos. A continuacion se describe brevemente
+        cada uno de los metodos y elementos de la clase.
         */
 
 #include <iostream>

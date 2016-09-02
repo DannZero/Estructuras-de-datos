@@ -118,6 +118,10 @@ void Lista::addRef(int Dato, int Ref)
 	for(int i=0; ) //hay que recorrer la lista para encontrar el espacio donde va el nuevo nodo
 	
 	this->aux.setSig(dato);
+}
+
+void Lista::RemoveRef(int Ref)
+{
 	
 }
 

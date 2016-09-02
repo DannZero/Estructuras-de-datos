@@ -1,3 +1,7 @@
+    /* Nombre(s): Filtzer Gorbach Gabriel
+                  Ponce de León Súchil Daniel */
+    
+    
     #include "Lista.h" //se incluye la clase lista
 
     Lista::Lista() //metodo que crea la lista

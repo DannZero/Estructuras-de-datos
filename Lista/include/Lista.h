@@ -1,6 +1,6 @@
-#include "Nodo.h"
+#include "Nodo.h" //se incluye la clase "nodo"
 
-class Lista
+class Lista //se crea la clase "Lista"
 {
 public:
 	Nodo* H; //se declara el apuntador a pila

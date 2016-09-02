@@ -1,3 +1,7 @@
+    /* Nombre(s): Filtzer Gorbach Gabriel
+                  Ponce de León Súchil Daniel
+    */
+
 #include "Nodo.h" //se incluye a la clase "nodo"
 
 Nodo::Nodo(int Dato, Nodo* Sig) //metodo constructor de primeros nodos

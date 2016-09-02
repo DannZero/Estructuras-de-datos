@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/daniel/Documentos/Lista/src/Lista.cpp" "/home/daniel/Documentos/Lista/build/CMakeFiles/lista.dir/src/Lista.cpp.o"
-  "/home/daniel/Documentos/Lista/src/Nodo.cpp" "/home/daniel/Documentos/Lista/build/CMakeFiles/lista.dir/src/Nodo.cpp.o"
-  "/home/daniel/Documentos/Lista/src/main.cpp" "/home/daniel/Documentos/Lista/build/CMakeFiles/lista.dir/src/main.cpp.o"
+  "/home/daniel/Estructuras-de-datos/Lista/src/Lista.cpp" "/home/daniel/Estructuras-de-datos/Lista/build/CMakeFiles/lista.dir/src/Lista.cpp.o"
+  "/home/daniel/Estructuras-de-datos/Lista/src/Nodo.cpp" "/home/daniel/Estructuras-de-datos/Lista/build/CMakeFiles/lista.dir/src/Nodo.cpp.o"
+  "/home/daniel/Estructuras-de-datos/Lista/src/main.cpp" "/home/daniel/Estructuras-de-datos/Lista/build/CMakeFiles/lista.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -4,11 +4,11 @@
 CMakeFiles/lista.dir/src/Lista.cpp.o
  ../include/Lista.h
  ../include/Nodo.h
- /home/daniel/Documentos/Lista/src/Lista.cpp
+ /home/daniel/Estructuras-de-datos/Lista/src/Lista.cpp
 CMakeFiles/lista.dir/src/Nodo.cpp.o
  ../include/Nodo.h
- /home/daniel/Documentos/Lista/src/Nodo.cpp
+ /home/daniel/Estructuras-de-datos/Lista/src/Nodo.cpp
 CMakeFiles/lista.dir/src/main.cpp.o
  ../include/Lista.h
  ../include/Nodo.h
- /home/daniel/Documentos/Lista/src/main.cpp
+ /home/daniel/Estructuras-de-datos/Lista/src/main.cpp

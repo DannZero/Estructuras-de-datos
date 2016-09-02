@@ -107,6 +107,21 @@ Nodo* hasElement(dato)
 	return aux;
 }
 
+void Lista::addRef(int Dato, int Ref)
+{
+	if(isEmpy())
+	{
+		return NULL;
+	}
+	Nodo* aux = new Nodo();
+	aux->aux.getDato(); //tiene que recibir el dato que se le da
+	for(int i=0; ) //hay que recorrer la lista para encontrar el espacio donde va el nuevo nodo
+	
+	this->aux.setSig(dato);
+	
+}
+
+
 void Lista::show()
 {
 	Nodo* aux = this->H;
@@ -114,5 +129,19 @@ void Lista::show()
 	{
 		std::cout << aux->getDato() << std::endl;
 		aux = aux->getSig();
+	}
+}
+
+void Lista::VaciarLista()
+{
+	if(isEmpty())
+	{
+		return NULL;
+	}
+	Nodo* aux = H;
+	while(aux.getDato() != dato && aux != NULL)
+	{
+		aux=NULL;
+		aux = aux.getSig();
 	}
 }

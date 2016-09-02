@@ -1,3 +1,11 @@
+    /* Nombre(s): Filtzer Gorbach Gabriel
+                  Ponce de León Súchil Daniel 
+        Descripción: La clase lista es donde se encuentran todos los métodos utilizados para 
+        la manipulación de los nodos que la conforman. A través de dichos métodos los nodos pueden ser agregados y eliminados
+        en el princpio, final, o en cualquier ubicación referenciada de la lista. También contiene métodos para buscar elementos
+        específicos de la lista, mostrar el contenido, y vaciar la lista. A continuación se describe la función de cada método. 
+        */
+
 #include "Nodo.h" //se incluye la clase "nodo"
 
 class Lista //se crea la clase "Lista"
